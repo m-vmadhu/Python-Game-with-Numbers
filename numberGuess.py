@@ -11,7 +11,6 @@ import sys
 from random import randint
 
 secret_number=randint(0,100) 
-print("\n%d"%secret_number)
 attempt_count=0
 result=0
 
